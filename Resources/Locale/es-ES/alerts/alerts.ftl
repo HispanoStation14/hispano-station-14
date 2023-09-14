@@ -1,4 +1,4 @@
-alerts-low-oxygen-name = [color=red]Low Oxygen[/color]
+alerts-low-oxygen-name = [color=red]Oxígeno bajo[/color]
 alerts-low-oxygen-desc = There is [color=red]not enough oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
 
 alerts-high-toxin-name = [color=red]High Toxin Level[/color]
@@ -39,23 +39,23 @@ alerts-buckled-desc = You've been [color=yellow]buckled[/color] to something. Cl
 alerts-crit-name = [color=red]Critical Condition[/color]
 alerts-crit-desc = You're severely injured and unconscious.
 
-alerts-dead-name = Dead
-alerts-dead-desc = You're dead, note that you can still be revived!
+alerts-dead-name = Muerte
+alerts-dead-desc = Has muerto, pero todavía puedes revivir si te encuentran.
 
-alerts-health-name = Health
-alerts-health-desc = [color=green]Green[/color] good. [color=red]Red[/color] bad.
+alerts-health-name = Salud
+alerts-health-desc = [color=green]Verde[/color] bueno. [color=red]Rojo[/color] malo.
 
-alerts-battery-name = Battery
+alerts-battery-name = Batería
 alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
 
-alerts-no-battery-name = No Battery
+alerts-no-battery-name = Sin batería
 alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
 
-alerts-internals-name = Toggle internals
-alerts-internals-desc = Toggles your gas tank internals on or off.
+alerts-internals-name = Activar equipo de respiración
+alerts-internals-desc = Activa o desactiva el equipo de respiración de tu tanque de gas.
 
-alerts-internals-name = Toggle internals
-alerts-internals-desc = Toggles your gas tank internals on or off.
+alerts-internals-name = Activar equipo de respiración
+alerts-internals-desc = Activa o desactiva el equipo de respiración de tu tanque de gas.
 
 alerts-piloting-name = Piloting Shuttle
 alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
