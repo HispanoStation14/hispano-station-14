@@ -1,62 +1,61 @@
-[color=#ff0000]YOU MUST BE AT LEAST 16 YEARS OF AGE TO PLAY ON WIZARD'S DEN SERVERS. ANY USERS SUSPECTED OF BEING UNDER 16 YEARS OF AGE WILL BE BANNED UNTIL THEY ARE OF AGE.[/color]
+----[color=#ff0000]YOU MUST BE AT LEAST 16 YEARS OF AGE TO PLAY ON WIZARD'S DEN SERVERS. ANY USERS SUSPECTED OF BEING UNDER 16 YEARS OF AGE WILL BE BANNED UNTIL THEY ARE OF AGE.[/color]
 
 [color=#ff0000]DISCONNECTING FROM OR IGNORING/EVADING ADMIN-HELPS WILL RESULT IN AN APPEAL ONLY BAN.[/color]
 
 This is the "short" form of the rules, which has all the information any regular player should need. You can find the "long" form of the rules with more examples & clarifications of any ambiguity on our wiki at [color=#a4885c]wiki.spacestation14.io[/color], should you need it.
 
 [color=#ff0000]Recent Changes[/color]
-    - Revolutionary rules have been added (#12, #15)
     - Silicon rules have been added (#22)
     - Security/command rules have been updated to address forced borging (#21)
 
-[color=#a4885c]01.[/color] [color=#a4885c]The[/color] [color=#ffd700]Golden[/color] [color=#a4885c]Rule.[/color] Admins may excercise discretion with rules as they see fit. If you rule lawyer or line skirt, you will get removed. Admins will answer for use of this privilege.
+[color=#a4885c]01.[/color] [color=#ffd700]La ley de oro[/color] Los administradores pueden ejercer su discreción con las reglas según lo consideren apropiado. Si intentas aprovecharte de lagunas en las reglas o tratas de evitarlas, serás penalizado.
 
-[color=#ff0000]ZERO TOLERANCE RULES[/color]
+[color=#ff0000]REGLAS INTOLERABLES[/color]
 
-[color=#a4885c]02.[/color] Absolutely no hate speech, slurs, bigotry, racism, specism (demeaning other characters in-game due to their in-game race), sexism, or anything even remotely similar. (YOU WILL GET PERMABANNED)
+[color=#a4885c]02.[/color] Se permite la representación de conductas de odio, como el racismo, el especismo y discriminación sexual, únicamente cuando todos los participantes involucrados en la situación o contexto estén de acuerdo de manera consensuada. Es importante que todos los jugadores respeten los límites establecidos por sus compañeros y se aseguren de mantener un ambiente de juego seguro y respetuoso durante y fuera de la partida. Cualquier representación de conductas de odio que no cumpla con estos requisitos o que genere malestar en cualquier participante será motivo de intervención por parte del equipo administrativo.
 
-[color=#a4885c]03.[/color] Absolutely no Erotic Roleplay (ERP) or sexual content, including direct or indirect mentions of sexual behavior or actions. (YOU WILL GET PERMABANNED) (Leeway is given to insults, ex: 'You are a dickhead', do not push it)
+[color=#a4885c]03.[/color] No se permite ningún tipo de roleplay erótico (ERP) ni contenido sexual, incluyendo menciones directas o indirectas de comportamientos o acciones sexuales. Romper esta regla conlleva una expulsión revisable. 
 
-[color=#a4885c]04.[/color] Don't communicate in-game/in-character information through methods outside of the game (such as talking in Discord with other users actively playing or by talking to your sibling across the room while you are both playing). This is referred to as "Metacomming". Adminstrators cannot police metacommunications, we must assume it is being abused. (ALL INVOLVED WILL GET PERMABANNED)
+[color=#a4885c]04.[/color] No se permite ninguna forma de metacomms (metacomuniación).
 
-[color=#a4885c]05.[/color] Attempting to evade game bans will result in an automatic appeal-only permanent ban that is only appealable after six months and only with a voucher of good behavior from another SS13/SS14 server. Attempting to evade job bans will result in an appeal-only permanent ban. (YOU WILL GET BANNED MUCH WORSE THAN YOU ALREADY WERE)
+++++[color=#a4885c]05.[/color] Attempting to evade game bans will result in an automatic appeal-only permanent ban that is only appealable after six months and only with a voucher of good behavior from another SS13/SS14 server. Attempting to evade job bans will result in an appeal-only permanent ban. (YOU WILL GET BANNED MUCH WORSE THAN YOU ALREADY WERE)
 
-[color=#ff0000]GENERAL ETIQUETTE[/color]
+[color=#ff0000]REGLAS GENERALES[/color]
 
-[color=#a4885c]06.[/color] These are English servers. Speak only English in IC and OOC.
+[color=#a4885c]06.[/color] Esto es un servidor de habla hispana. Sólo se debe hablar en español tanto IC (dentro de personaje) como OOC (fuera del personaje).
 
-[color=#a4885c]07.[/color] Don't use exploits or external programs to play, gain an advantage, or disrupt/crash the round/server. This includes autoclickers and scripts to automate the game or evade AFK detection. Intentionally attempting to lag/crash the server will result in an immediate appeal-only ban.
+[color=#a4885c]07.[/color] No utilices exploits ni programas externos para jugar, obtener ventajas o sabotear la partida o el servidor. Esto incluye autoclickers y scripts para automatizar el juego o evadir la detección de inactividad. Si se rompe esta regla resultará en una expulsión revisable inmediata.
 
-[color=#a4885c]08.[/color] Don't use multiple SS14 accounts to play (referred to as "multi-keying"). Users knowingly using multiple SS14 accounts will have all of their accounts banned.
+[color=#a4885c]08.[/color] No utilices múltiples cuentas de SS14 para jugar. Los usuarios que utilicen múltiples cuentas de SS14 tendrán todas sus cuentas expulsadas.
 
-[color=#a4885c]09.[/color] Do not ignore the admin help relay or abuse it by flooding it with garbage, checking for admins before stating a problem (ex: "hello?", "any admins?"), using it as a chatroom, or sending messages of no substance. Hostility to administators in the relay will likely result in your removal. All admin helps are sent to the SS14 Discord.
+[color=#a4885c]09.[/color] No ignores el canal de ayuda de administración. Éste debe usarse única y exclusivamente para plantear dudas o problemas.
+La hostilidad hacia los administradores resultará en tu expulsión.
 
-[color=#ff0000]IN GAME & ROLEPLAY RULES[/color]
+[color=#ff0000]REGLAS DE ROLEPLAY  DENTRO DEL JUEGO[/color]
 
-[color=#a4885c]10.[/color] Pick a realistic name that could appear on a birth certificate with at least a first and last name (leeway is given to this for Clowns, Mimes, and non-human races).
-    - Names of notable famous or fictional persons or names that resemble/parody them are strictly forbidden. You are not clever if you slightly change a famous name around. Terrible names open you up to being politely reminded to change it, smited, or instantly banned, depending on severity.
-    - Names resulting in inappropriate phonetic play-on-words are forbidden (ex: "Mike Oxlong", "Ben Dover", "Dixie Normus"). They are also extremely overdone.
+[color=#a4885c]10.[/color] Elige un nombre realista que podría aparecer en un certificado de nacimiento, que incluya al menos un nombre y un apellido.
+Los nombres que resulten en juegos de palabras fonéticamente inapropiados están prohibidos. También están demasiado vistos.
 
-[color=#a4885c]11.[/color] Act like an actual human being on a space station in a low-roleplay (LRP) environment. Do not use text speak or emoticons IC, and do not refer to OOC things like admins in-game. Do not threaten players that you are calling the admins on them. Do not use emotes to bypass speech filters or muteness. You are not required to write a backstory or follow strict procedure; however, you are expected to at least make an effort to act like your role.
+[color=#a4885c]11.[/color] Actúa como una tripulante real de una estación espacial. Debes interpretar a tu personaje dado el contexto y de la manera más realista posible. Intenta crear una personalidad única para tu personaje.
 
-[color=#a4885c]12.[/color] Don't be a dick. You are playing a multiplayer game with other people who also want to enjoy the game.
-    - [color=#ff0000]The arrivals station, shuttle, and general arrivals docking area are completely off-limits to any hostile activity, including activity by antagonists. Attacking newly spawned players in these areas or damaging/sabotaging these areas is strictly forbidden.[/color]
-    - Do not intentionally make other players' lives hell for your own amusement.
-    - [color=#ff0000]THE ROUND IS NOT OVER UNTIL THE END-ROUND SUMMARY APPEARS. KILLING SOMEONE FOR NO REASON BEFORE THIS WILL BE HANDLED ACCORDINGLY.[/color]
-    - Antagonists have a lot of leeway with this rule and may kill/sabotage as they see fit, however if your behavior degrades the experience for the majority of the server you will be told to stop. Antagonists are still generally forbidden from causing massive station damage early into the round (less than 30 minutes) and are forbidden from needlessly prolonging rounds. For antagonist specific rules, see the "long" form of the rules at [color=#a4885c]wiki.spacestation14.io[/color].
+[color=#a4885c]12.[/color]Estás jugando un juego multijugador con otras personas que también quieren disfrutar del juego.
 
-[color=#a4885c]13.[/color] Don't harass or target players across rounds for actions in prior rounds or for actions outside of the game (this is referred to as "Metagrudging".)
-    - Annoying players for IC reasons in the current round is fine; doing it across rounds or as a ghost role after they kill you is not.
+[color=#ff0000]La estación de llegada, la lanzadera y la zona de atraque general de llegadas están completamente prohibidas para cualquier actividad hostil, incluida la actividad de los antagonistas. Atacar a jugadores recién aparecidos en estas áreas o sabotear/destruir estas áreas está estrictamente prohibido.[/color]
+No hagas intencionadamente la vida de otros jugadores un infierno solo por beneficio propio.
+[color=#ff0000]LA RONDA NO TERMINA HASTA QUE APAREZCA EL RESUMEN DE FIN DE RONDA. MATAR A ALGUIEN SIN RAZÓN ANTES DE ESTO SERÁ TRATADO DE ACUERDO.[/color]
+Los antagonistas tienen cierta libertad con esta regla y pueden matar/sabotear como consideren adecuado, sin embargo, si tu comportamiento deteriora la experiencia para la mayoría del servidor se te pedirá que te detengas. Los antagonistas tienen prohibido causar un gran daño a la estación al principio de la ronda (primeros 30 minutos de juego). "
 
-[color=#a4885c]14.[/color] Don't use information gained from outside your character's knowledge to gain an advantage (this is referred to as "Metagaming").
-    - Using information you gain from outside your own character (such as spectating while a ghost, metacomms, or other means) to your advantage is strictly forbidden. You remember all events up until you fall unconscious, even after cloning. If you take a ghost role, unless otherwise stated, you DO NOT REMEMBER ANYTHING from your past life.
+[color=#a4885c]14.[/color] Molestar a jugadores por razones dentro del personaje (IC) en la ronda actual está bien; hacerlo a lo largo de rondas o como fantasma después de que te maten no lo está. Debes tener en cuenta que no recuerdas lo sucedido en otras rondas.
+o utilices información obtenida desde fuera del conocimiento de tu personaje para obtener ventajas (esto se conoce como 'Metajuego').
+
+Usar información que obtienes desde fuera de tu propio personaje (como espiar mientras eres un fantasma, comunicaciones externas, u otros medios) en tu beneficio está estrictamente prohibido. Recuerdas todos los eventos hasta que caes inconsciente, incluso después de ser clonado. Si asumes un rol de fantasma, a menos que se indique lo contrario, NO RECUERDAS NADA de tu vida pasada.
 
 [color=#a4885c]15.[/color] Follow escalation rules and don't murder someone for slipping you, use common sense. Do not make Cargonia.
     - You can defend yourself to the extent of protecting your own life.
     - Security may use less-lethal force to effect arrests of criminals.
     - Don't outright leave people to die if you get in a fight, make an effort to heal them or bring them to Medbay.
     - Adminhelp the situation if you think someone is over-escalating.
-    - Department strikes, revolutions (ex: cargonia and any variation thereof), riots, cults, and any other type of similar largely disruptive behavior are strictly forbidden. Other than for revolutionary antagonists, these activities are strictly forbidden. All players, including antagonists other than revolutionaries, must obtain admin permission before engaging in this behavior (forewarning: you are unlikely to get permission).
+    - Department strikes, revolutions (ex: cargonia and any variation thereof), riots, cults, and any other type of similar largely disruptive behavior are strictly forbidden. These activities are generally antagonist-only and all players regardless of antagonist status must obtain admin permission before engaging in this behavior (you are extremely unlikely to get permission).
 
 [color=#a4885c]16.[/color] Don't immediately ghost or suicide from your role if you do not get antagonist (referred to as "Antag-rolling") or from head roles without notifying your chain of command or administrators.
     - This is not fair to other players actually waiting patiently for an antagonist round. Alternatively, if you do not want to play an antagonist or do not want to cause conflict, do not opt-in for antagonist roles.
