@@ -1,5 +1,5 @@
-﻿discord-round-notifications-new = ¡Una nueva ronda está empezando! [Entra ya al servidor](ss14://localhost:1212) 
-discord-round-notifications-started = Round #{$id} on map "{$map}" started.
-discord-round-notifications-end = Round #{$id} has ended. It lasted for {$hours} hours, {$minutes} minutes, and {$seconds} seconds.
-discord-round-notifications-end-ping = <@&{$roleId}>, the server will reboot shortly!
-discord-round-notifications-unknown-map = Unknown
+﻿discord-round-notifications-new = ¡Una nueva ronda está empezando! En SS14 Launche agrega esta dirección a favoritos: ss14://161.22.46.20:1212
+discord-round-notifications-started = Ha empezado la ronda nº{$id} en el mapa "{$map}".
+discord-round-notifications-end = La ronda nº{$id} ha terminado. Ha durado {$hours} horas, {$minutes} minutos, {$seconds} segundos.
+discord-round-notifications-end-ping = ¡<@&{$roleId}>, el servidor va a reiniciar en breves!
+discord-round-notifications-unknown-map = Mapa desconocido
