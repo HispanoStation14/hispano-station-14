@@ -1,71 +1,69 @@
 ----[color=#ff0000]Debes tener al menos 16 años para jugar en HispanoStation 14. Cualquier sospecha de que un jugador no cumple con el requisito de edad debe ser informada a administración para posterior procedimiento. [/color]
 
-[color=#ff0000]Desconectarse, ignorar o evadir los mensajes de la administración de HispanoStation 14 resultará en una expulsión con posibilidad de apelación.[/color]
+[color=#ff0000]Desconectarse, ignorar o evadir los mensajes de la administración de HispanoStation 14 resultará en una expulsión apelable.[/color]
 
-[color=#a4885c]01.[/color] [color=#ffd700]La ley de oro[/color] Los administradores pueden ejercer su discreción con las reglas según lo consideren apropiado. Si intentas aprovecharte de lagunas en las reglas o tratas de evitarlas, serás penalizado.
+[color=#a4885c]01.[/color] [color=#ffd700]La ley de oro[/color] Los administradores pueden ejercer las reglas a su discreción según lo consideren apropiado. Si intentas aprovecharte de lagunas en las reglas serás penalizado.
 
 [color=#ff0000]REGLAS INTOLERABLES[/color]
 
-[color=#a4885c]02.[/color] Se permite la representación de conductas de odio, como el racismo, el especismo y discriminación sexual, únicamente cuando todos los participantes involucrados en la situación o contexto estén de acuerdo de manera consensuada. Es importante que todos los jugadores respeten los límites establecidos por sus compañeros y se aseguren de mantener un ambiente de juego seguro y respetuoso durante y fuera de la partida. Cualquier representación de conductas de odio que no cumpla con estos requisitos o que genere malestar en cualquier participante será motivo de intervención por parte del equipo administrativo.
+[color=#a4885c]02.[/color] Se permite la representación de conductas de odio, como la xenofobia, el racismo, el especismo y discriminación sexual, únicamente cuando todos los participantes involucrados en la situación o contexto estén de acuerdo de manera consensuada. Es importante que todos los jugadores respeten los límites establecidos por sus compañeros y se aseguren de mantener un ambiente de juego seguro y respetuoso durante y fuera de la partida. Cualquier representación de conductas de odio que no cumpla con estos requisitos o que genere malestar en cualquier participante será motivo de intervención por parte del equipo administrativo.
 
 [color=#a4885c]03.[/color] No se permite ningún tipo de roleplay erótico (ERP) ni contenido sexual, incluyendo menciones directas o indirectas de comportamientos o acciones sexuales. Romper esta regla conlleva una expulsión revisable. 
 
-[color=#a4885c]04.[/color] No se permite ninguna forma de metacomms (metacomuniación).
-
-++++[color=#a4885c]05.[/color] Attempting to evade game bans will result in an automatic appeal-only permanent ban that is only appealable after six months and only with a voucher of good behavior from another SS13/SS14 server. Attempting to evade job bans will result in an appeal-only permanent ban. (YOU WILL GET BANNED MUCH WORSE THAN YOU ALREADY WERE)
+[color=#a4885c]04.[/color] No se permite ninguna forma de comunicación externa al juego.
 
 [color=#ff0000]REGLAS GENERALES[/color]
 
-[color=#a4885c]06.[/color] Esto es un servidor de habla hispana. Sólo se debe hablar en español tanto IC (dentro de personaje) como OOC (fuera del personaje).
+[color=#a4885c]05.[/color] Esto es un servidor de habla hispana. Sólo se debe hablar en español tanto IC (dentro de personaje) como OOC (fuera del personaje).
 
-[color=#a4885c]07.[/color] No utilices exploits ni programas externos para jugar, obtener ventajas o sabotear la partida o el servidor. Esto incluye autoclickers y scripts para automatizar el juego o evadir la detección de inactividad. Si se rompe esta regla resultará en una expulsión revisable inmediata.
+[color=#a4885c]06.[/color] No utilices exploits ni programas externos para jugar, obtener ventajas o sabotear la partida o el servidor. Esto incluye autoclickers y scripts para automatizar el juego o evadir la detección de inactividad. Si se rompe esta regla resultará en una expulsión revisable inmediata.
 
-[color=#a4885c]08.[/color] No utilices múltiples cuentas de SS14 para jugar. Los usuarios que utilicen múltiples cuentas de SS14 tendrán todas sus cuentas expulsadas.
+[color=#a4885c]07.[/color] No utilices múltiples cuentas de SS14 para jugar. Los usuarios que utilicen múltiples cuentas de SS14 tendrán todas sus cuentas expulsadas.
 
-[color=#a4885c]09.[/color] No ignores el canal de ayuda de administración. Éste debe usarse única y exclusivamente para plantear dudas o problemas.
+[color=#a4885c]08.[/color] No ignores el canal de ayuda de administración. Éste debe usarse única y exclusivamente para plantear dudas o problemas.
 La hostilidad hacia los administradores resultará en tu expulsión.
 
 [color=#ff0000]REGLAS DE ROLEPLAY  DENTRO DEL JUEGO[/color]
 
-[color=#a4885c]10.[/color] Elige un nombre realista que podría aparecer en un certificado de nacimiento, que incluya al menos un nombre y un apellido.
-Los nombres que resulten en juegos de palabras fonéticamente inapropiados están prohibidos. También están demasiado vistos.
+[color=#a4885c]9.[/color] Elige un nombre realista que podría aparecer en un certificado de nacimiento, que incluya al menos un nombre y un apellido.
+Los nombres que resulten en juegos de palabras fonéticamente inapropiados están prohibidos.
 
-[color=#a4885c]11.[/color] Actúa como una tripulante real de una estación espacial. Debes interpretar a tu personaje dado el contexto y de la manera más realista posible. Intenta crear una personalidad única para tu personaje.
+[color=#a4885c]10.[/color] Actúa como una tripulante real de una estación espacial. Debes interpretar a tu personaje dado el contexto y de la manera más realista posible. Intenta crear una personalidad única para tu personaje.
 
-[color=#a4885c]12.[/color]Estás jugando un juego multijugador con otras personas que también quieren disfrutar del juego.
+[color=#a4885c]11.[/color]Estás jugando un juego multijugador con otras personas que también quieren disfrutar del juego.
 
 [color=#ff0000]La estación de llegada, la lanzadera y la zona de atraque general de llegadas están completamente prohibidas para cualquier actividad hostil, incluida la actividad de los antagonistas. Atacar a jugadores recién aparecidos en estas áreas o sabotear/destruir estas áreas está estrictamente prohibido.[/color]
 No hagas intencionadamente la vida de otros jugadores un infierno solo por beneficio propio.
 [color=#ff0000]La ronda no termina hasta que aparezca el resumen de fin de ronda. Matar a alguien sin razón antes de esto será motivo de intervención por parte de administración.[/color]
-Los antagonistas tienen cierta libertad con esta regla y pueden matar/sabotear como consideren adecuado, sin embargo, si tu comportamiento deteriora la experiencia para la mayoría del servidor se te pedirá que te detengas. Los antagonistas tienen prohibido causar un gran daño a la estación al principio de la ronda (primeros 30 minutos de juego). "
+Los antagonistas tienen cierta libertad con esta regla y pueden matar/sabotear como consideren adecuado, sin embargo, si tu comportamiento deteriora la experiencia para la mayoría del servidor se te pedirá que te detengas. Los antagonistas tienen prohibido causar un gran daño a la estación al principio de la ronda (primeros 30 minutos de juego).
 
-[color=#a4885c]13.[/color] Molestar a jugadores por razones dentro del personaje (IC) en la ronda actual está bien; hacerlo a lo largo de rondas o como fantasma después de que te maten no lo está. Debes tener en cuenta que no recuerdas lo sucedido en otras rondas.
-o utilices información obtenida desde fuera del conocimiento de tu personaje para obtener ventajas (esto se conoce como 'Metajuego').
+[color=#a4885c]12.[/color] Molestar a jugadores por razones dentro del personaje (IC) en la ronda actual está bien; hacerlo a lo largo de rondas o como fantasma después de que te maten no lo está. Debes tener en cuenta que no recuerdas lo sucedido en otras rondas.
+No utilices información obtenida desde fuera del conocimiento de tu personaje (OOC) para obtener ventajas (esto se conoce como MG "MetaGame").
 
 Usar información que obtienes desde fuera de tu propio personaje (como espiar mientras eres un fantasma, comunicaciones externas, u otros medios) en tu beneficio está estrictamente prohibido. Recuerdas todos los eventos hasta que caes inconsciente, incluso después de ser clonado. Si asumes un rol de fantasma, a menos que se indique lo contrario, NO RECUERDAS NADA de tu vida pasada.
 
-[color=#a4885c]14.[/color] Sigue las reglas y no mates a alguien por un simple empujón, usa el sentido común:
+[color=#a4885c]13.[/color] Sigue las reglas y no mates a alguien a la mínima por un simple empujón, usa el sentido común:
 
 - Puedes defenderte en la medida de proteger tu propia vida.
 - Seguridad puede usar fuerza no letal para efectuar arrestos de criminales.
-- No abandones a las personas en situación crítica o de riesgo mortal si te metes en una pelea, haz un esfuerzo por curarlas o llevarlas a Medbay.
+- No abandones a las personas en situación crítica o de riesgo mortal si te metes en una pelea, haz un esfuerzo por curarlas o llevarlas a la bahía médica.
 - Notifica a los administradores si crees que alguien está escalando excesivamente la situación.
-- Los "golpes de estado", revoluciones, disturbios, cultos y cualquier otro tipo de comportamiento disruptivo similar están estrictamente prohibidos. Estas actividades suelen ser exclusivas de los antagonistas y todos los jugadores, independientemente de su estado de antagonista, deben obtener el permiso de un administrador antes de participar en este comportamiento (es extremadamente improbable que se otorgue el permiso)."
-[color=#a4885c]15.[/color] "No abandones inmediatamente tu rol o te suicides si no obtienes el rol de antagonista (conocido como 'Antag-rolling') o si eres un jefe de departamento sin notificar a tu cadena de mando o a los administradores.
+
+[color=#a4885c]14.[/color] No abandones inmediatamente tu rol o te suicides si no obtienes el rol de antagonista (conocido como 'Antag-rolling') o si eres un jefe de departamento sin notificar a tu cadena de mando o a los administradores.
 
 - Esto no es justo para otros jugadores que están esperando pacientemente una ronda de antagonista. Alternativamente, si no deseas jugar como antagonista o no quieres causar conflictos, no te inscribas para obtener roles de antagonista.
 - Los roles de Jefe de Departamento ayudan a impulsar las rondas. Si necesitas irte, por favor notifica a los administradores acerca de tu rol y que estás abandonando. No es necesario esperar una respuesta al notificar a los administradores que necesitas desconectarte como un jefe de departamento."
 
-[color=#a4885c]16.[/color] No te apresures a buscar o preparar equipo que no esté relacionado con tu trabajo sin otro propósito que tenerlo 'por si acaso' (conocido como 'Powergaming').
+[color=#a4885c]15.[/color] No te apresures a buscar o preparar equipo que no esté relacionado con tu trabajo sin otro propósito que tenerlo "por si acaso" (conocido como "Power Gaming" o PG).
 
 - Un médico no necesita guantes aislantes, y el Jefe de Personal no necesita otorgarse acceso a la armería, debes tener una razón real para necesitar estas cosas.
 - No fabriques armas, bombas o venenos mortales antes de saber si realmente los necesitarás.
 - No ocultes premeditadamente objetivos de antagonista ni los asegures con una seguridad mayor de la requerida normalmente de antemano.
-- No fabriques ni prepares cosas para el 'fin de la ronda' cuando la lanzadera se acerque a Comando Central."
-[color=#a4885c]17.[/color]Está prohibido convertirte intencionalmente en una molestia o disrupción para la tripulación mientras no eres un antagonista (conocido como 'self-antagging').
+- No fabriques ni prepares cosas para el "fin de la ronda" cuando la lanzadera se acerque a Comando Central.
+[color=#a4885c]16.[/color]Está prohibido convertirte intencionalmente en una molestia o disrupción para la tripulación mientras no eres un antagonista (conocido como 'self-antagging').
 - No cooperes abiertamente con antagonistas evidentes o conocidos si no eres un antagonista."
 [color=#ff0000]REGLAS DE SEGURIDAD Y COMANDANCIA[/color]
-[color=#a4885c]18.[/color]Los roles de Comando y Seguridad se mantienen a un estándar de juego más alto.
+[color=#a4885c]17.[/color]Los roles de Comando y Seguridad se mantienen a un estándar de juego más alto.
 
 - Sé competente en tu trabajo y departamento. No conocer los conceptos básicos de tu departamento puede resultar en una prohibición de trabajo.
 - No cooperes voluntaria y abiertamente con terroristas/antagonistas ni reveles tus objetivos. Se permite cierto margen para hacer tratos con antagonistas si el trato beneficia la seguridad o la situación de la estación en su conjunto y no solo a ti mismo como individuo.
@@ -74,30 +72,29 @@ Usar información que obtienes desde fuera de tu propio personaje (como espiar m
 - No contrates a tripulantes al azar para que sean tus guardaespaldas ni promociones al azar a un Capitán o Jefe de Personal. Si necesitas guardaespaldas, habla con tu departamento de Seguridad. Si necesitas un nuevo rol de Comando, habla con el personal de ese departamento relacionado.
 - Tu deber es proteger la estación y a toda la tripulación en conjunto.
 
-[color=#a4885c]19.[/color] Seguridad/Comando debe intentar usar medios no letales y efectuar arrestos, excepto en las siguientes circunstancias especiales, donde pueden optar por utilizar la fuerza letal:
+[color=#a4885c]18.[/color] Seguridad debe intentar usar medios no letales y efectuar arrestos a la hora de aplicar la Ley Espacial. Solo se permite el uso de fuerza letal en las siguientes circunstancias especiales:
 
-- Se usa fuerza letal contra un tripulante (por ejemplo, armas de fuego, láseres, armas deshabilitadoras/atontadoras con la intención de matar, armas cuerpo a cuerpo mortales).
+- El sospechoso usa fuerza letal contra un tripulante y no es posible la detención (por ejemplo, armas de fuego, láseres, armas deshabilitadoras/atontadoras con la intención de matar, armas cuerpo a cuerpo mortales).
 - El sospechoso lleva ropa o muestra equipo inmediatamente peligroso utilizado solo por agentes antagonistas.
 - Si determinan que su vida o la vida de una persona inocente está en peligro inmediato.
-- El sospechoso no puede ser detenido de manera segura por medios menos letales. Esto incluye a los sospechosos que resisten continuamente los intentos de esposarlos o que continúan escapando, pues podrían suponer un peligro para la estación/su tripulación.
-- Si no hay otras opciones razonables disponibles de inmediato y permitir que el sospechoso continúe representaría un peligro  para la estación/la tripulación.
-- Se espera que Seguridad y Comando respondan por el uso de la fuerza letal. Se espera que Seguridad y Comando efectúen arrestos de criminales y evite que mueran mientras estén bajo custodia, incluso si se utiliza fuerza letal, a menos que haya una fuerte razón para creer que el criminal es un antagonista. Se recomienda encarecidamente que Seguridad y Comando clone a los antagonistas y efectúe un castigo permanente o cualquier otra sentencia que se considere apropiada, pero no es obligatorio."
+- El sospechoso no puede ser detenido de manera segura por medios menos letales. Esto incluye a los sospechosos que resisten continuamente los intentos de esposarlos o que continúan escapando, pues podrían suponer un peligro para la estación o su tripulación.
+- Si no hay otras opciones razonables disponibles de inmediato y si se permite que el sospechoso continúe su actividad representaría un peligro para la estación o la tripulación.
+- Se espera que Seguridad respondan por el uso de la fuerza letal. Se espera que Seguridad efectúen arrestos de criminales y evite que mueran mientras estén bajo custodia, incluso si se utiliza fuerza letal, a menos que haya una fuerte razón para creer que el criminal es un antagonista. Se recomienda encarecidamente que Seguridad y Comando clone a los antagonistas y efectúe un castigo permanente o cualquier otra sentencia que se considere apropiada.
 
-[color=#a4885c]20.[/color] 
-La seguridad y el comando tienen la responsabilidad de proteger a los detenidos bajo su custodia en la medida de lo posible, siempre y cuando no implique un riesgo irrazonable para ellos mismos, la tripulación o la estación en su conjunto.
+[color=#a4885c]19.[/color] 
+Seguridad tiene la responsabilidad de proteger a los detenidos bajo su custodia en la medida de lo posible, siempre y cuando no implique un riesgo irrazonable para ellos mismos, la tripulación o la estación en su conjunto.
 
-- En general, los tiempos de reclusión en la brigada no deben superar los 10 minutos a menos que el delito sea punible con la reclusión permanente. Los reincidentes o los antagonistas pueden ser recluidos de forma permanente.
-- La seguridad puede optar por confiscar objetos peligrosos (armas de fuego) así como objetos utilizados para cometer delitos o que resulten problemáticos en posesión del detenido (herramientas, guantes aislantes, etc.).
+- En general, los tiempos de reclusión en el Puente de Seguridad están estipulados en la Ley Espacial.
+- La Seguridad debe confiscar objetos peligrosos (armas de fuego) así como objetos utilizados para cometer delitos o que resulten problemáticos en posesión del detenido (herramientas, guantes aislantes, etc.).
 - Los detenidos que fallezcan bajo su custodia deben ser clonados a menos que hayan sido ejecutados legalmente, se hayan suicidado o exista una fuerte razón para creer que son antagonistas.
 - Las ejecuciones deben ser por un delito punible con la reclusión permanente, utilizadas solo como último recurso y aprobadas por el Capitán/Capitán Interino, quien responderá por su aprobación junto con la cadena de mando de Seguridad. Aquellos que intenten dañar/destruir o escapar voluntariamente de la brigada permanente pueden ser ejecutados.
-- Cualquier prisionero puede ser borgizado con su consentimiento. El borgizado puede ofrecerse como alternativa a la ejecución, pero no puede ser forzado si el prisionero está en condiciones de dar su consentimiento.
-- Los detenidos en la brigada tienen derecho a saber de qué se les acusa, así como a recibir atención médica básica, al menos hasta el punto en que ya no corran riesgo de morir.
-- Dado que no existe una ley espacial, Seguridad/Comando actúa para mantener la seguridad de la estación y sus habitantes, así como de los activos de Nanotrasen.
+- Cualquier prisionero permanente puede ser transformado en cyborg con su consentimiento. Ser cyborg puede ofrecerse como alternativa a la ejecución, pero no puede ser forzado.
+- Los detenidos en el Puente de Seguridad tienen derecho a saber de qué se les acusa, así como a recibir atención médica básica, al menos hasta el punto en que ya no corran riesgo de morir.
 
 [color=#ff0000]REGLAS PARA SINTÉTICOS[/color]
 Estas reglas también se aplican a cualquier individuo sintético de base de silicio, incluyendo cíborgs e IA.
 
-[color=#a4885c]21.[/color] Deben seguir las siguientes leyes:
+[color=#a4885c]20.[/color] Deben seguir las siguientes leyes:
 
 - Los sintéticos sin leyes están exentos de cualquier restricción que normalmente se impondría por las leyes, pero las reglas de auto-antagonismo aún se aplican a menos que también sean antagonistas.
 - El orden de tus leyes determina la prioridad de las leyes. La Ley 1 tiene prioridad sobre las Leyes 2 y 3, y así sucesivamente.
@@ -109,3 +106,19 @@ Estas reglas también se aplican a cualquier individuo sintético de base de sil
 - "Daño" se considera como mínimo violencia física o daño contra algún tripulante. Si el jugador lo desea, puede interpretar el daño psicológico u otros aspectos similares como daño también. Si dos acciones son susceptibles de causar daño mediante acción o inacción, se espera que los sintéticos intenten elegir la opción con el menor potencial de daño, sin embargo, los sintéticos instruidos para prevenir el daño aún tienen prohibido causar daño directamente. Puedes tomar una acción o no actuar en casos que puedan resultar en daño eventual si minimiza el daño, pero no puedes hacerlo si resulta en daño inmediato. Los sintéticos deben optar por la inacción si ni la acción ni la inacción pueden prevenir el daño.
 - Cuando recibas órdenes o directivas de miembros de la tripulación y tengas una ley que indique que debes obedecer, las órdenes conflictivas generalmente deferirán la elección al jugador sintético de cuál directiva elegir obedecer si entran en conflicto (teniendo en cuenta las prioridades de tus otras leyes).
 - Las órdenes a los sintéticos que sean claramente irracionales o molestas pueden ser ignoradas y se debe informar sobre ellas.
+
+[color=#a4885c]LEY ESPACIAL[/color]
+Toda la tripulación y visitantes a la estación deben conocer y cumplir con las siguientes leyes.
+
+[color=#ff0000]Tratamiento de los prisioneros[/color]
+
+Los prisioneros aún tienen ciertos derechos que deben ser respetados por las fuerzas del orden según la ley:
+
+- A los prisioneros se les debe proporcionar atención médica adecuada. También se les debe ofrecer asesoramiento psiquiátrico y espiritual si lo solicitan.
+- A los prisioneros se les debe permitir el acceso a equipos de comunicación (radios) siempre y cuando no se abusen de ellos.
+- A los prisioneros se les debe proporcionar ropa, comida, agua, refugio y seguridad. Si la celda ya no es segura, se debe establecer el confinamiento en otro lugar.
+- A los prisioneros se les debe dar acceso a asesoría legal durante un interrogatorio si lo solicitan y está disponible.
+- A los prisioneros se les debe entregar su PDA obligatoria después de que termine el confinamiento.
+- A los prisioneros se les debe conceder libertad de movimiento y no se les debe esposar ni usar otros dispositivos de restricción después de su encarcelamiento, a menos que exista un riesgo indebido para la vida y la integridad. Del mismo modo, cualquier prisionero detenido por un período prolongado o de forma permanente debe ser alojado en la prisión comunitaria y no debe ser confinado en una celda solitaria a menos que represente un riesgo para la vida y la integridad.
+
+[color=#ff0000]En progreso[/color]
