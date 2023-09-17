@@ -41,7 +41,7 @@ HOST_KEYS = [
 FEED_TITLE       = "Space Station 14 Changelog"
 FEED_LINK        = "https://github.com/space-wizards/space-station-14/"
 FEED_DESCRIPTION = "Changelog for the official Wizard's Den branch of Space Station 14."
-FEED_LANGUAGE    = "es-ES"
+FEED_LANGUAGE    = "en-US"
 FEED_GUID_PREFIX = "ss14-changelog-wizards-"
 
 CHANGELOG_FILE = "Resources/Changelog/Changelog.yml"
